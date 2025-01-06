@@ -1,1 +1,2 @@
-# PCOS-
+# PCOS ANALYSIS
+ Polycystic Ovary Syndrome (PCOS) is a common hormonal disorder affecting women of reproductive age. This study analyzes a dataset containing information about individuals diagnosed with PCOS, exploring the relationship between age, weight, and hair growth patterns, which are some of the common symptoms of the condition. The analysis is conducted through various visualizations and statistical techniques, including bar charts, histograms, box plots, and correlation heatmaps, to better understand the distribution and correlations in the data.
